@@ -1,44 +1,67 @@
 [
-    {
-       "quesNumber":1,
-       "totalQuesNumber":3,
-       "question":"How are you doing?",
-       "image":"https://i.pravatar.cc/150/200",
-       "answer":"option2",
-       "options":[
-          "option1",
-          "option2",
-          "option3",
-          "option4",
-          "option5"
+   {
+       "quesNumber": 1,
+       "totalQuesNumber": 5,
+       "question": "Who is the alter ego of Iron Man?",
+       "image": "",
+       "answer": "Tony Stark",
+       "options": [
+           "Steve Rogers",
+           "Tony Stark",
+           "Bruce Banner",
+           "Peter Parker"
        ]
-    },
-    {
-       "quesNumber":2,
-       "totalQuesNumber":3,
-       "question":"What are you doing?",
-       "image":"https://i.pravatar.cc/150/200",
-       "answer":"option3",
-       "options":[
-          "option1",
-          "option2",
-          "option3",
-          "option4",
-          "option5"
+   },
+   {
+       "quesNumber": 2,
+       "totalQuesNumber": 5,
+       "question": "Identify the Marvel character shown in the image below",
+       "image": "https://content.api.news/v3/images/bin/04467a4e1c843189c6b5350edce5b227",
+       "answer": "Thor",
+       "options": [
+           "Captain America",
+           "Thor",
+           "Doctor Strange",
+           "Black Widow"
        ]
-    },
-    {
-       "quesNumber":3,
-       "totalQuesNumber":3,
-       "question":"Why are you doing?",
-       "image":"https://i.pravatar.cc/150/200",
-       "answer":"option3",
-       "options":[
-          "option1",
-          "option2",
-          "option3",
-          "option4",
-          "option5"
+   },
+   {
+       "quesNumber": 3,
+       "totalQuesNumber": 5,
+       "question": "Who is the primary antagonist in the Avengers movie?",
+       "image": "",
+       "answer": "Loki",
+       "options": [
+           "Loki",
+           "Thanos",
+           "Ultron",
+           "Red Skull"
        ]
-    }
- ]
+   },
+   {
+       "quesNumber": 4,
+       "totalQuesNumber": 5,
+       "question": "What is the real name of the Black Widow?",
+       "image": "",
+       "answer": "Natasha Romanoff",
+       "options": [
+           "Natasha Romanoff",
+           "Wanda Maximoff",
+           "Carol Danvers",
+           "Hope Van Dyne"
+       ]
+   },
+   {
+      "quesNumber": 5,
+      "totalQuesNumber": 5,
+      "question": "Which Marvel movie's poster is this?",
+      "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/01/ant-man-and-the-wasp-reald-3d-poster.jpg",
+      "answer": "And Man and the Wasp",
+      "options": [
+          "Avengers: Infinity War",
+          "Iron Man ",
+          "And Man and the Wasp",
+          "Eternals"
+      ]
+  }
+]
