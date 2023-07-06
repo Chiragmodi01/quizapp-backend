@@ -7,9 +7,9 @@ const app = express();
 // Enable CORS for all routes
 app.use(cors());
 
-app.get("/", (req, res) => {
+app.get("/getQuizData", (req, res) => {
   const data = responseData;
-  res.json(data);
+  res.status(200).send(data);
 });
 
 app.listen(5000, () => {
